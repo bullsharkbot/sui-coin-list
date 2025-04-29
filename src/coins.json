@@ -269,7 +269,7 @@
     },
     {
         "name": "BULLSHARK",
-        "description": "SuiPad The Premier Launchpad for Tier-1 Projects",
+        "description": "Bullshark is a meme + utility project inspired by the most famous Sui Fren created by Mysten Labs.",
         "symbol": "BSHARK",
         "coin_type": "0xb3a1146f8dba4f5940480764f204047d8ce0794286c8e5bdc1c111ca2a2ea8ae::bullshark::BULLSHARK",
         "decimals": 9,
