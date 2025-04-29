@@ -266,5 +266,15 @@
         "icon_url": "",
         "project_url": "https://suipad.xyz/",
         "source": "native"
+    },
+    {
+        "name": "BULLSHARK",
+        "description": "SuiPad The Premier Launchpad for Tier-1 Projects",
+        "symbol": "BSHARK",
+        "coin_type": "0xb3a1146f8dba4f5940480764f204047d8ce0794286c8e5bdc1c111ca2a2ea8ae::bullshark::BULLSHARK",
+        "decimals": 9,
+        "icon_url": "https://bafkreihbeqqcphnt5356uh43becdgr556lspaahyoo4mxshtzxe7ih4qde.ipfs.w3s.link/",
+        "project_url": "https://bullshark.fun",
+        "source": "native"
     }
 ]
